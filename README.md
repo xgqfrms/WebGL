@@ -40,3 +40,15 @@ WebGLProgram API
 
 WebGLSampler API
 
+
+## demos
+
+
+https://github.com/josdirksen/learning-threejs-third
+
+## refs
+
+
+https://www.cnblogs.com/xgqfrms/p/15755911.html
+
+
